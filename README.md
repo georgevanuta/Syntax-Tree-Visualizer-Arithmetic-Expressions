@@ -11,4 +11,4 @@ Given a valid arithmetic expression (ex: (1+((2 * 5)*(3+4)))) outputs a graphica
 ## How to use?
 
 In order to use you will need $\bf{python3}$ with $\bf{PyQt6}$, but I recommend just running it in $\bf{pycharm}$.
-To run just give the program as command line argument the arithmetic expression.
+To run just give the arithmetic expression as cmd line arg.
